@@ -6,6 +6,7 @@
 Helping major clients in transportation, education, luxury, and public sectors achieve **Cloud Native transformation**, **DevOps maturity**, and **platform engineering excellence**.
 
 Currently working on designing an Internal Developer Platform, reducing hosting costs and accelerating delivery cycles.
+
 ---
 
 ## 🔧 Expertise
